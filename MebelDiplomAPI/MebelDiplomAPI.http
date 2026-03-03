@@ -1,0 +1,6 @@
+@MebelDiplomAPI_HostAddress = http://localhost:5281
+
+GET {{MebelDiplomAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
