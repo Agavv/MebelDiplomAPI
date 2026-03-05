@@ -1,10 +1,10 @@
 ﻿using MebelDiplomAPI.Models;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using MebelDiplomAPI.DTOs;
+using Microsoft.AspNetCore.Authorization;
 using Org.BouncyCastle.Crypto.Generators;
 using BCrypt.Net;
-using MebelDiplomAPI.DTOs;
 
 [Route("api/[controller]")]
 [ApiController]
@@ -27,19 +27,21 @@ public class AuthController : ControllerBase
             return BadRequest("Email уже существует");
 
         var userRole = await _context.Roles.FirstOrDefaultAsync(r => r.RoleName == "User");
+        if (userRole == null)
+            return BadRequest("Роль 'User' не найдена в базе. Сначала запусти сидинг ролей.");
 
         var user = new User
         {
             FullName = dto.FullName,
             Email = dto.Email,
             PasswordHash = BCrypt.Net.BCrypt.HashPassword(dto.Password),
-            RoleId = userRole.RoleId
+            RoleId = userRole.RoleId   // теперь безопасно
         };
 
         _context.Users.Add(user);
         await _context.SaveChangesAsync();
 
-        return Ok("Регистрация успешна");
+        return Ok(new { message = "Регистрация успешна", userId = user.UserId });
     }
 
     [HttpPost("login")]

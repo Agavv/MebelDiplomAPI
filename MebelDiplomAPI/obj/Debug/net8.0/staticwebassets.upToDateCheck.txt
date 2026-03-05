@@ -1,0 +1,6 @@
+wwwroot\images\ProfilePic1.png
+wwwroot\images\ProfilePic2.png
+wwwroot\images\ProfilePic3.png
+wwwroot\images\ProfilePic5.png
+wwwroot\images\ProfilePic4.png
+wwwroot\images\ProfilePic6.png

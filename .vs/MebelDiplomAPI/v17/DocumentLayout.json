@@ -3,26 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|c:\\users\\fensa\\source\\repos\\mebeldiplomapi\\mebeldiplomapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|solutionrelative:mebeldiplomapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|c:\\users\\fensa\\source\\repos\\mebeldiplomapi\\mebeldiplomapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|solutionrelative:mebeldiplomapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|c:\\users\\fensa\\source\\repos\\mebeldiplomapi\\mebeldiplomapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|solutionrelative:mebeldiplomapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|c:\\users\\fensa\\source\\repos\\mebeldiplomapi\\mebeldiplomapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|solutionrelative:mebeldiplomapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|c:\\users\\fensa\\source\\repos\\mebeldiplomapi\\mebeldiplomapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|solutionrelative:mebeldiplomapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|c:\\users\\fensa\\source\\repos\\mebeldiplomapi\\mebeldiplomapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|solutionrelative:mebeldiplomapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,12 +11,44 @@
       "RelativeMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|solutionrelative:mebeldiplomapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|c:\\users\\fensa\\source\\repos\\mebeldiplomapi\\mebeldiplomapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|solutionrelative:mebeldiplomapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|c:\\users\\fensa\\source\\repos\\mebeldiplomapi\\mebeldiplomapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|solutionrelative:mebeldiplomapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|c:\\users\\fensa\\source\\repos\\mebeldiplomapi\\mebeldiplomapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|solutionrelative:mebeldiplomapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|c:\\users\\fensa\\source\\repos\\mebeldiplomapi\\mebeldiplomapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|solutionrelative:mebeldiplomapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|c:\\users\\fensa\\source\\repos\\mebeldiplomapi\\mebeldiplomapi\\dtos\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|solutionrelative:mebeldiplomapi\\dtos\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|c:\\users\\fensa\\source\\repos\\mebeldiplomapi\\mebeldiplomapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|solutionrelative:mebeldiplomapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|c:\\users\\fensa\\source\\repos\\mebeldiplomapi\\mebeldiplomapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|solutionrelative:mebeldiplomapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|c:\\users\\fensa\\source\\repos\\mebeldiplomapi\\mebeldiplomapi\\mebeldiplomapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|solutionrelative:mebeldiplomapi\\mebeldiplomapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|c:\\users\\fensa\\source\\repos\\mebeldiplomapi\\mebeldiplomapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|solutionrelative:mebeldiplomapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|c:\\users\\fensa\\source\\repos\\mebeldiplomapi\\mebeldiplomapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|solutionrelative:mebeldiplomapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FA031E1-49F3-4811-B86C-7A1ABF765F09}|MebelDiplomAPI\\MebelDiplomAPI.csproj|c:\\users\\fensa\\source\\repos\\mebeldiplomapi\\mebeldiplomapi\\models\\mebeldiplomcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -89,85 +101,86 @@
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "MebelDiplomAPI\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "MebelDiplomAPI\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T01:04:09.118Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "ProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\DTOs\\ProfileDto.cs",
+              "RelativeDocumentMoniker": "MebelDiplomAPI\\DTOs\\ProfileDto.cs",
+              "ToolTip": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\DTOs\\ProfileDto.cs",
+              "RelativeToolTip": "MebelDiplomAPI\\DTOs\\ProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T00:36:26.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MebelDiplomAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MebelDiplomAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T00:24:25.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "MebelDiplomAPI\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\Controllers\\AuthController.cs",
               "RelativeToolTip": "MebelDiplomAPI\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwCUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-04T23:57:22.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\DTOs\\LoginDto.cs",
-              "RelativeDocumentMoniker": "MebelDiplomAPI\\DTOs\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\DTOs\\LoginDto.cs",
-              "RelativeToolTip": "MebelDiplomAPI\\DTOs\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T23:59:11.949Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\DTOs\\RegisterDto.cs",
-              "RelativeDocumentMoniker": "MebelDiplomAPI\\DTOs\\RegisterDto.cs",
-              "ToolTip": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\DTOs\\RegisterDto.cs",
-              "RelativeToolTip": "MebelDiplomAPI\\DTOs\\RegisterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T23:58:59.127Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "MebelDiplomAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "MebelDiplomAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-04T23:58:16.012Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "JwtService.cs",
               "DocumentMoniker": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\Services\\JwtService.cs",
               "RelativeDocumentMoniker": "MebelDiplomAPI\\Services\\JwtService.cs",
               "ToolTip": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\Services\\JwtService.cs",
               "RelativeToolTip": "MebelDiplomAPI\\Services\\JwtService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T23:56:05.211Z"
+              "WhenOpened": "2026-03-04T23:56:05.211Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\Program.cs",
               "RelativeDocumentMoniker": "MebelDiplomAPI\\Program.cs",
               "ToolTip": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\Program.cs",
               "RelativeToolTip": "MebelDiplomAPI\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAGYAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T16:21:34.544Z"
+              "WhenOpened": "2026-03-03T16:21:34.544Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "TestController.cs",
               "DocumentMoniker": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\Controllers\\TestController.cs",
               "RelativeDocumentMoniker": "MebelDiplomAPI\\Controllers\\TestController.cs",
@@ -175,11 +188,64 @@
               "RelativeToolTip": "MebelDiplomAPI\\Controllers\\TestController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T19:36:57.738Z"
+              "WhenOpened": "2026-03-03T19:36:57.738Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "MebelDiplomAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\MebelDiplomAPI.csproj",
+              "RelativeDocumentMoniker": "MebelDiplomAPI\\MebelDiplomAPI.csproj",
+              "ToolTip": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\MebelDiplomAPI.csproj",
+              "RelativeToolTip": "MebelDiplomAPI\\MebelDiplomAPI.csproj",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T19:17:15.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MebelDiplomAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\appsettings.json",
+              "RelativeToolTip": "MebelDiplomAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-03T19:13:02.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "MebelDiplomAPI\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "MebelDiplomAPI\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T23:59:11.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "MebelDiplomAPI\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "MebelDiplomAPI\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T23:58:59.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "MebelDiplomContext.cs",
               "DocumentMoniker": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\Models\\MebelDiplomContext.cs",
               "RelativeDocumentMoniker": "MebelDiplomAPI\\Models\\MebelDiplomContext.cs",
@@ -191,27 +257,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MebelDiplomAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\MebelDiplomAPI.csproj",
-              "RelativeDocumentMoniker": "MebelDiplomAPI\\MebelDiplomAPI.csproj",
-              "ToolTip": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\MebelDiplomAPI.csproj",
-              "RelativeToolTip": "MebelDiplomAPI\\MebelDiplomAPI.csproj",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MebelDiplomAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MebelDiplomAPI\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-03T19:17:15.799Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-04T23:58:16.012Z"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "MebelDiplomAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\fensa\\source\\repos\\MebelDiplomAPI\\MebelDiplomAPI\\appsettings.json",
-              "RelativeToolTip": "MebelDiplomAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-03T19:13:02.676Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         },

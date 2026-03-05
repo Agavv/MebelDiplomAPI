@@ -1,0 +1,15 @@
+## Сборка и временные файлы
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+## Настройки IDE
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.sln.docstates
+
+## Секреты (ВАЖНО!)
+appsettings.Development.json
+usersecrets.json
