@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("f1b2c3d4-...-abcd1234")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("MebelDiplomAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7289c055943788d8e4af318459eaf10249b58a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4769886e639b7557c6d4c56e5acea3611297b17")]
 [assembly: System.Reflection.AssemblyProductAttribute("MebelDiplomAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MebelDiplomAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
