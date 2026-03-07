@@ -5,6 +5,7 @@ using MebelDiplomAPI.DTOs;
 using Microsoft.AspNetCore.Authorization;
 using Org.BouncyCastle.Crypto.Generators;
 using BCrypt.Net;
+using MebelDiplomAPI.Services;
 
 [Route("api/[controller]")]
 [ApiController]

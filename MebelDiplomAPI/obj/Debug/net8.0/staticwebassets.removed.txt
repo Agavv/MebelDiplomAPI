@@ -1,0 +1,6 @@
+C:\Users\fensa\source\repos\MebelDiplomAPI\MebelDiplomAPI\wwwroot\images\ProfilePic1.png
+C:\Users\fensa\source\repos\MebelDiplomAPI\MebelDiplomAPI\wwwroot\images\ProfilePic2.png
+C:\Users\fensa\source\repos\MebelDiplomAPI\MebelDiplomAPI\wwwroot\images\ProfilePic3.png
+C:\Users\fensa\source\repos\MebelDiplomAPI\MebelDiplomAPI\wwwroot\images\ProfilePic5.png
+C:\Users\fensa\source\repos\MebelDiplomAPI\MebelDiplomAPI\wwwroot\images\ProfilePic4.png
+C:\Users\fensa\source\repos\MebelDiplomAPI\MebelDiplomAPI\wwwroot\images\ProfilePic6.png
