@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MebelDiplomAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf9772850d3fb2b821bbdca38b14165c022275b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c5dad33819800fdd29427ce81b66087b578745a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MebelDiplomAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MebelDiplomAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

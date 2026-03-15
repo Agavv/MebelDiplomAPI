@@ -174,3 +174,4 @@ C:\Users\fensa\source\repos\MebelDiplomAPI\MebelDiplomAPI\bin\Debug\net8.0\Bounc
 C:\Users\fensa\source\repos\MebelDiplomAPI\MebelDiplomAPI\bin\Debug\net8.0\MebelDiplomAPI.staticwebassets.runtime.json
 C:\Users\fensa\source\repos\MebelDiplomAPI\MebelDiplomAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
 C:\Users\fensa\source\repos\MebelDiplomAPI\MebelDiplomAPI\obj\Debug\net8.0\MebelDiplomAPI.sourcelink.json
+C:\Users\fensa\source\repos\MebelDiplomAPI\MebelDiplomAPI\bin\Debug\net8.0\secrets.json

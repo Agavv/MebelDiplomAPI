@@ -1,6 +1,10 @@
-wwwroot\images\ProfilePic1.png
-wwwroot\images\ProfilePic2.png
-wwwroot\images\ProfilePic3.png
-wwwroot\images\ProfilePic5.png
-wwwroot\images\ProfilePic4.png
-wwwroot\images\ProfilePic6.png
+wwwroot\images\Categories\detskayKomnata1.jpg
+wwwroot\images\Categories\detskayKomnata2.jpg
+wwwroot\images\Categories\KomodAndTumba.jpg
+wwwroot\images\products\divanTkaneviySeriy.jpg
+wwwroot\images\profile\ProfilePic1.png
+wwwroot\images\profile\ProfilePic2.png
+wwwroot\images\profile\ProfilePic3.png
+wwwroot\images\profile\ProfilePic4.png
+wwwroot\images\profile\ProfilePic5.png
+wwwroot\images\profile\ProfilePic6.png

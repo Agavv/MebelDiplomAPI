@@ -1,10 +1,7 @@
-﻿using MebelDiplomAPI.Models;
+using MebelDiplomAPI.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using MebelDiplomAPI.DTOs;
-using Microsoft.AspNetCore.Authorization;
-using Org.BouncyCastle.Crypto.Generators;
-using BCrypt.Net;
 using MebelDiplomAPI.Services;
 
 [Route("api/[controller]")]
@@ -20,31 +17,47 @@ public class AuthController : ControllerBase
         _jwtService = jwtService;
     }
 
-
+    // POST api/auth/register
     [HttpPost("register")]
     public async Task<IActionResult> Register(RegisterDto dto)
     {
         if (await _context.Users.AnyAsync(u => u.Email == dto.Email))
-            return BadRequest("Email уже существует");
+            return BadRequest(new { message = "Email уже занят" });
 
         var userRole = await _context.Roles.FirstOrDefaultAsync(r => r.RoleName == "User");
         if (userRole == null)
-            return BadRequest("Роль 'User' не найдена в базе. Сначала запусти сидинг ролей.");
+            return BadRequest(new { message = "Роль 'User' не найдена. Перезапусти API — роли создадутся автоматически." });
 
         var user = new User
         {
-            FullName = dto.FullName,
-            Email = dto.Email,
+            FullName    = dto.FullName,
+            Email       = dto.Email,
             PasswordHash = BCrypt.Net.BCrypt.HashPassword(dto.Password),
-            RoleId = userRole.RoleId   // теперь безопасно
+            PhoneNumber = dto.PhoneNumber,
+            RoleId      = userRole.RoleId
         };
 
         _context.Users.Add(user);
         await _context.SaveChangesAsync();
 
-        return Ok(new { message = "Регистрация успешна", userId = user.UserId });
+        // Сразу выдаём токен — чтобы после регистрации не нужен был отдельный логин
+        var token = _jwtService.GenerateToken(user, userRole.RoleName);
+
+        return Ok(new
+        {
+            token,
+            user = new
+            {
+                userId      = user.UserId,
+                fullName    = user.FullName,
+                email       = user.Email,
+                phoneNumber = user.PhoneNumber,
+                roleId      = user.RoleId
+            }
+        });
     }
 
+    // POST api/auth/login
     [HttpPost("login")]
     public async Task<IActionResult> Login(LoginDto dto)
     {
@@ -53,13 +66,27 @@ public class AuthController : ControllerBase
             .FirstOrDefaultAsync(u => u.Email == dto.Email);
 
         if (user == null)
-            return Unauthorized("Неверный email");
+            return Unauthorized(new { message = "Неверный email или пароль" });
 
         if (!BCrypt.Net.BCrypt.Verify(dto.Password, user.PasswordHash))
-            return Unauthorized("Неверный пароль");
+            return Unauthorized(new { message = "Неверный email или пароль" });
+
+        if (user.IsBlocked)
+            return Forbid();
 
         var token = _jwtService.GenerateToken(user, user.Role.RoleName);
 
-        return Ok(new { token });
+        return Ok(new
+        {
+            token,
+            user = new
+            {
+                userId      = user.UserId,
+                fullName    = user.FullName,
+                email       = user.Email,
+                phoneNumber = user.PhoneNumber,
+                roleId      = user.RoleId
+            }
+        });
     }
 }

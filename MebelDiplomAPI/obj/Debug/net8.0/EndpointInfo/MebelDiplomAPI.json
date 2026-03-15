@@ -134,6 +134,10 @@
           "password": {
             "type": "string",
             "nullable": true
+          },
+          "phoneNumber": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false
@@ -142,7 +146,7 @@
     "securitySchemes": {
       "Bearer": {
         "type": "apiKey",
-        "description": "Вставь токен в формате: Bearer eyJhbGciOi...",
+        "description": "Введи токен в формате: Bearer eyJhbGciOi...",
         "name": "Authorization",
         "in": "header"
       }
